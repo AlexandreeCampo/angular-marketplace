@@ -1,0 +1,10 @@
+.nav-container {
+    background-color: #202020;
+}
+
+.sidenav {
+    background-color: #202020;
+    width: 200px;
+    position: fixed;
+    top: 0;
+}
